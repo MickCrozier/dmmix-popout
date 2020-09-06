@@ -1,0 +1,45 @@
+{
+	"name": "dmmix-popout",
+	"title": "DM_miX Popout",
+	"description": "A better Popout",
+	"version": "1.6.3",
+	"author": "DM_miX",
+	"keywords": [
+
+	],
+	"readme": "README.md",
+	"license": "MIT",
+	"bugs": "",
+	"changelog": "",
+	"url": "",
+	"manifest": "",
+	"download": "",
+	"minimumCoreVersion": "0.6.0",
+	"compatibleCoreVersion": "0.6.6",
+	"socket": true,
+	"scripts": [
+
+
+
+		"./ve-js/parser.js",
+		"./ve-js/utils.js"
+
+	],
+	"esmodules": [
+
+		"./js/Bootstrap.js"
+	],
+	"styles": [
+		"./css/main.css"
+	],
+	"packs": [
+
+	],
+	"languages": [
+		{
+			"lang": "en",
+			"name": "English",
+			"path": "lang/en.json"
+		}
+	]
+}
