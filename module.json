@@ -12,8 +12,8 @@
 	"bugs": "",
 	"changelog": "",
 	"url": "https://github.com/mickcrozier/dmmix-popout",
-	"manifest": "https://raw.githubusercontent.com/mickcrozier/dmmix-popout/master/module.json",
-	"download": "https://github.com/mickcrozier/dmmix-popout/releases/download/v0.0.1/dmmix-popout.zip",
+	"manifest": "https://raw.githubusercontent.com/MickCrozier/dmmix-popout/master/module.json",
+	"download": "https://github.com/MickCrozier/dmmix-popout/releases/download/0.0.1/dmmix-popout.zip",
 	"minimumCoreVersion": "0.6.0",
 	"compatibleCoreVersion": "0.6.6",
 	"scripts": [
